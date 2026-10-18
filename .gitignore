@@ -1,0 +1,9 @@
+build/
+cmake-build-*/
+*.user
+*.user.*
+*.o
+*.out
+.vscode/
+.idea/
+CMakeLists.txt.user*
